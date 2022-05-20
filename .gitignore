@@ -9,3 +9,7 @@ exercises/clippy/Cargo.lock
 .idea
 .vscode
 *.iml
+
+### other
+temp_*
+

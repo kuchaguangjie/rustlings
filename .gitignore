@@ -1,4 +1,5 @@
 *.swp
+*.o
 target/
 **/*.rs.bk
 .DS_Store
